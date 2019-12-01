@@ -9,7 +9,4 @@ RUN python3 -m nltk.downloader punkt
 
 WORKDIR /app
 
-# used for pydoc in server mode
-EXPOSE 8080
-
 ENTRYPOINT ["python3", "whats_next.py"]
