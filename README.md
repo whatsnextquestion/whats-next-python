@@ -1,6 +1,6 @@
 # What's Next in Python
 
-[whats_next](whats_next.py) is a small Python program to search [Project Gutenberg books](https://pypi.org/project/Gutenberg/).
+[whats_next](whats_next.py) is a small Python program to search [Project Gutenberg books](http://www.gutenberg.org/).
 
 Currently is supports word suggestion based on a set of books.
 
